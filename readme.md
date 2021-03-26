@@ -22,3 +22,33 @@
 ## Langkah 5
 #### Membuat sebuah hyperlink sebelum heading 1,
 ![SS-6](https://user-images.githubusercontent.com/56240078/112668877-95d37f00-8e91-11eb-97dd-ea0922e383ac.jpg)
+
+
+# Jawab Pertanyaan Berikut
+1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan penulisan tag?
+```
+Ketika saya salah dalam penulisan tag img yang seharusnya <img> menjadi </img>, gambar yang saya ingin tampilkan menjadi tidak tampil dalam web/browser.
+```
+
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
+```
+Dari pengamatan saya, perbedaan dari tag <p> dan <br> terletak pada jarak yang dihasilkan, tag <br> memberikan sebuah jarak yang agak jauh untuk membuat paragraf (break line/longkap satu), sedangkan tag <p> membuat paragraf dengan jarak yang tidak begitu jauh.
+```
+
+3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
+```
+Perbedaan atribut title dan alt yaitu pada gambar yang dihasilkan. Ketika gambar berhasil ditampilkan maka akan terlihat sebuah title, sedangkan jika gambar gagal ditampilkan maka akan menampilkan teks dalam atribut alt tersebut.
+```
+
+4. Untuk mengatur ukuran gambar, digunakan atribut `width` dan `height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+```
+Untuk menampilkan gambar yang proporsional sebaiknya kedua attribut tersebut diisi sesuai dengan ukuran yang kita inginkan. Dengan mengatur kedua ukuran tersebut kita dapat menyesuaikan gambar dengan lokasi penempatan gambar tersebut.
+```
+
+5. Pada `link` tambahkan atribut `target` dengan nilai atribut bervariasi (`_blank`, `_self`, `_top`, `_parent`), apa yang terjadi pada masing-masing nilai antribut tersebut?
+```
+Nilai _blank akan membuka link/halaman di tab baru.
+Nilai _self akan membuka link/halaman di tab saat ini.
+Nilai _top membuka link/halaman dan membatalkan semua frame.
+Nilai _parent membuka link/halaman pada parent frame.
+```
